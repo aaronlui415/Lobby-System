@@ -11,9 +11,9 @@
   "dependencies": {
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^5.0.0",
+    "socket.io-client": "^4.8.3"
   },
-  "devDependencies": {},
   "browserslist": {
     "production": [
       ">0.2%",
@@ -25,5 +25,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronlui415/Lobby-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronlui415/Lobby-System/issues"
   }
 }
